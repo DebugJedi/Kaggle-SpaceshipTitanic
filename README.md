@@ -3,7 +3,7 @@
 A machine learning solution for the [Kaggle Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic) that predicts which passengers were transported to an alternate dimension during a spaceship collision with a spacetime anomaly.
 Kaggle Score: 0.80+ accuracy | 
 
-## 🗒️ Table of Contents
+## Table of Contents
 * [Problem Statements](#problem-statement)
 * [Dataset Overview](#dataset-overview) 
 * [Approach & Methodology](#approach-and-methodology)
