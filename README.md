@@ -4,13 +4,12 @@ A machine learning solution for the [Kaggle Spaceship Titanic](https://www.kaggl
 Kaggle Score: 0.80+ accuracy | 
 
 ## 🗒️ Table of Contents
-* Problem Statements
-* Dataset Overview
-* Approach & Methodology
-* Results
-* Project Structure
-* Installation & Setup
-* Author
+* [Problem Statements](#problem-statement)
+* [Dataset Overview](#dataset-overview) 
+* [Approach & Methodology](#approach-and-methodology)
+* [Results](#results)
+* [Installation & Setup](#installation)
+* [Author](#author)
 
 
 ## Problem Statement
@@ -73,12 +72,12 @@ Used Boruta algorithm with RandomForest to identify statistically relevant featu
 
 ## Results
    Model Performance
-   | Metric   |    Validation Set   |  Test Set |
-   |:--------:|:-------------------:|:---------:|
-   | Accuracy | 83.05%              |  TBD      |
-   | ROC-AUC. | 83.06%              |  TBD      |
-   | Precision| 84.04%              |  TBD      |
-   | Recall.  | 81.86%              |  TBD      |
+   | Metric   |    Test Set   |  
+   |:--------:|:-------------------:|
+   | Accuracy | 83.05%              |  
+   | ROC-AUC  | 83.06%              |  
+   | Precision| 84.04%              |  
+   | Recall   | 81.86%              |  
    
 
 ## Key Insights:
