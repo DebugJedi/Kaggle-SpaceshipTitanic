@@ -21,6 +21,7 @@ Task: Binary classification to predict the Transported status (True/False) for e
 The dataset contains personal records recovered from the spaceship's damaged computer system:
 
 Features:
+
     * PassengerId - A unique Id for each passenger. Each Id takes the form gggg_pp where gggg indicates a group the passenger is travelling with and pp is their number within the group. People in a group are often family members, but not always.
     
     * HomePlanet - The planet the passenger departed from, typically their planet of permanent residence.
