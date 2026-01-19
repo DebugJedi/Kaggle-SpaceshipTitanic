@@ -16,6 +16,13 @@ authors = [
 dependencies = [
     "numpy>=1.24.0",
     "pandas>=2.0.0",
+    "kaggle",
+    "matplotlib",
+    "boruta",
+    "scikit-learn",
+    "seaborn",
+    "xgboost",
+    
 ]
 
 [project.optional-dependencies]
